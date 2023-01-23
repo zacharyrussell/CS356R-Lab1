@@ -297,5 +297,13 @@ notes per chord. Therefore, the parameters you have available to change are as f
 	// Report the cosine similarity measure and add the cross-correlation plot here.
 	```
 
+## Exercise 3: Discussion ##
+// Add your answers below. 
+
+* Q1: Is it easier to look at the issue of exponential damping in the time or frequency domain? Why?
+* Q2: Is it easier to determine which note was played in the time or frequency domain? Why?
+* Q3: If the time constant of exponential damping is reduced, does that imply that the note lasts for a longer or shorter period of time?
+* Q4: How might you apply what you learned in this lab to looking into the areas of speech recognition and automatic note detection for arbitrary musical pieces? What would be additional challenges? Why?
+
 ## Acknowledgment
 This lab is adapted from [6.082 Introduction to EECS 2](http://web.mit.edu/6.02/www/f2006/) at Massachusetts Institute of Technology.
