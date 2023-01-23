@@ -297,7 +297,7 @@ notes per chord. Therefore, the parameters you have available to change are as f
 	// Report the cosine similarity measure and add the cross-correlation plot here.
 	```
 
-## Exercise 3: Discussion ##
+## Post-Lab Discussion ##
 // Add your answers below. 
 
 * Q1: Is it easier to look at the issue of exponential damping in the time or frequency domain? Why?
