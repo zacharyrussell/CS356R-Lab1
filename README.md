@@ -117,15 +117,7 @@ positive frequency range.
 ```
 // Add screenshots of the plots from the pre-lab exercises here
 ```
-![image](https://user-images.githubusercontent.com/106686403/214431721-3e58bb9d-8775-492a-b7ba-cc6408760e84.png)
 
-![image](https://user-images.githubusercontent.com/106686403/214431725-ec312316-99a2-4720-97b0-53e3c4f8237c.png)
-
-![image](https://user-images.githubusercontent.com/106686403/214431729-136459d9-e35e-441e-841a-277480029142.png)
-
-![image](https://user-images.githubusercontent.com/106686403/214431734-55bd0d61-871b-4f82-beaa-30c14075c6ff.png)
-
-![image](https://user-images.githubusercontent.com/106686403/214431738-436c68cb-8cd5-408e-8e51-502f995888a7.png)
 
 
 
